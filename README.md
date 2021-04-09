@@ -1,0 +1,13 @@
+# pyxis-user 11 RKQ1.200826.002 21.3.31 release-keys
+- manufacturer: xiaomi
+- platform: sdm710
+- codename: pyxis
+- flavor: pyxis-user
+- release: 11
+- id: RKQ1.200826.002
+- incremental: 21.3.31
+- tags: release-keys
+- fingerprint: Xiaomi/pyxis/pyxis:11/RKQ1.200826.002/21.3.31:user/release-keys
+- brand: Xiaomi
+- branch: pyxis-user-11-RKQ1.200826.002-21.3.31-release-keys
+- repo: xiaomi_pyxis_dump
